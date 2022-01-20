@@ -1,0 +1,47 @@
+@import 'font.css';
+/* root start */
+
+:root
+{
+    --rr400: 'Roboto-Regular';
+    --ri400: 'Roboto-Italic';
+    --rb700: 'Roboto-Bold';
+    --gold:  #C9A96E;
+    --black:   #171717;
+    --white: #ffffff;
+    --bgIcons: #f8f9fa;
+    --gray: #666666;    
+}
+*
+{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container
+{
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.container-fluid
+{
+    padding: 0 15px;
+}
+.container-header
+{
+    max-width: 1400px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+/* root end */
+
+
+
+
+
+
+
